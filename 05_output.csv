@@ -1,0 +1,55 @@
+state,district,spike_months,spike_type,volatility
+Delhi,North East,['2025-04'],Irregular/Migration,5640.403
+Delhi,West Delhi,['2025-04'],Irregular/Migration,27007.085
+Maharashtra,Ahilyanagar,['2025-12'],Irregular/Migration,1517.889
+Maharashtra,Ahmadnagar,['2025-11'],Irregular/Migration,49645.054
+Maharashtra,Ahmed Nagar,['2025-11'],Irregular/Migration,1631.501
+Maharashtra,Akola,['2025-11'],Irregular/Migration,16244.726
+Maharashtra,Amravati,['2025-11'],Irregular/Migration,27329.416
+Maharashtra,Aurangabad,['2025-11'],Irregular/Migration,30492.784
+Maharashtra,Beed,['2025-11'],Irregular/Migration,27917.656
+Maharashtra,Bhandara,['2025-11'],Irregular/Migration,9619.886
+Maharashtra,Bid,['2025-11'],Irregular/Migration,2595.128
+Maharashtra,Buldana,['2025-11'],Irregular/Migration,6604.062
+Maharashtra,Buldhana,['2025-11'],Irregular/Migration,29319.918
+Maharashtra,Chandrapur,['2025-11'],Irregular/Migration,26180.147
+Maharashtra,Gadchiroli,['2025-11'],Irregular/Migration,14985.068
+Maharashtra,Gondiya,['2025-11'],Irregular/Migration,11605.481
+Maharashtra,Hingoli,['2025-11'],Irregular/Migration,19557.742
+Maharashtra,Jalgaon,['2025-11'],Irregular/Migration,33794.532
+Maharashtra,Jalna,['2025-11'],Irregular/Migration,17871.247
+Maharashtra,Kolhapur,['2025-11'],Irregular/Migration,26946.094
+Maharashtra,Latur,['2025-11'],Irregular/Migration,23336.835
+Maharashtra,Mumbai,['2025-11'],Irregular/Migration,29584.926
+Maharashtra,Mumbai( Sub Urban ),['2025-11'],Irregular/Migration,1140.288
+Maharashtra,Nagpur,['2025-11'],Irregular/Migration,27654.825
+Maharashtra,Nanded,['2025-11'],Irregular/Migration,49594.352
+Maharashtra,Nashik,['2025-11'],Irregular/Migration,52413.44
+Maharashtra,Osmanabad,['2025-11'],Irregular/Migration,22724.329
+Maharashtra,Palghar,['2025-11'],Irregular/Migration,18331.142
+Maharashtra,Parbhani,['2025-11'],Irregular/Migration,23935.534
+Maharashtra,Pune,['2025-11'],Irregular/Migration,61480.218
+Maharashtra,Raigarh,['2025-11'],Irregular/Migration,19619.796
+Maharashtra,Ratnagiri,['2025-11'],Irregular/Migration,16085.373
+Maharashtra,Sangli,['2025-11'],Irregular/Migration,24303.319
+Maharashtra,Satara,['2025-11'],Irregular/Migration,23640.51
+Maharashtra,Sindhudurg,['2025-11'],Irregular/Migration,7254.014
+Maharashtra,Solapur,['2025-11'],Irregular/Migration,51812.878
+Maharashtra,Thane,['2025-11'],Irregular/Migration,60307.405
+Maharashtra,Wardha,['2025-11'],Irregular/Migration,10914.099
+Maharashtra,Washim,['2025-11'],Irregular/Migration,17631.111
+Maharashtra,Washim *,['2025-11'],Irregular/Migration,405.829
+Maharashtra,Yavatmal,['2025-11'],Irregular/Migration,56596.675
+Rajasthan,Balotra,['2025-12'],Irregular/Migration,330.982
+Rajasthan,Banswara,['2025-03'],Irregular/Migration,19199.579
+Rajasthan,Beawar,['2025-12'],Irregular/Migration,373.38
+Rajasthan,Didwana-Kuchaman,['2025-12'],Irregular/Migration,476.643
+Rajasthan,Dungarpur,['2025-03'],Irregular/Migration,16973.733
+Rajasthan,Jalore,['2025-12'],Irregular/Migration,523.995
+Rajasthan,Jhunjhunu,['2025-12'],Irregular/Migration,948.49
+Rajasthan,Khairthal-Tijara,['2025-12'],Irregular/Migration,598.359
+Rajasthan,Kotputli-Behror,['2025-12'],Irregular/Migration,366.34
+Rajasthan,Phalodi,['2025-12'],Irregular/Migration,140.237
+Rajasthan,Salumbar,['2025-12'],Irregular/Migration,135.214
+UP,Bhadohi,['2025-03'],Irregular/Migration,1676.832
+UP,Lucknow,['2025-12'],Irregular/Migration,25591.658

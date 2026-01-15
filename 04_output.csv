@@ -1,0 +1,196 @@
+state,district,typology,child_ratio,adult_ratio,pressure_tier
+Delhi,Central Delhi,Migration Impact Zone,0.3,0.7,Stable
+Delhi,East Delhi,Migration Impact Zone,0.313,0.687,Stable
+Delhi,Najafgarh,Migration Impact Zone,0.068,0.932,Stable
+Delhi,New Delhi,Migration Impact Zone,0.45,0.55,Stable
+Delhi,North Delhi,Migration Impact Zone,0.275,0.725,Stable
+Delhi,North East,Migration Impact Zone,0.073,0.927,Stable
+Delhi,North East Delhi,Migration Impact Zone,0.401,0.599,Stable
+Delhi,North West Delhi,Migration Impact Zone,0.296,0.704,Moderate Stress
+Delhi,Shahdara,Population Expansion Zone,0.228,0.772,Stable
+Delhi,South Delhi,Migration Impact Zone,0.298,0.702,Stable
+Delhi,South East Delhi,Population Expansion Zone,0.185,0.815,Stable
+Delhi,South West Delhi,Migration Impact Zone,0.308,0.692,Stable
+Delhi,West Delhi,Migration Impact Zone,0.29,0.71,Stable
+Maharashtra,Ahilyanagar,Population Expansion Zone,0.072,0.928,Stable
+Maharashtra,Ahmadnagar,Migration Impact Zone,0.32,0.68,Moderate Stress
+Maharashtra,Ahmed Nagar,Migration Impact Zone,0.139,0.861,Stable
+Maharashtra,Akola,Migration Impact Zone,0.245,0.755,Stable
+Maharashtra,Amravati,Migration Impact Zone,0.262,0.738,Stable
+Maharashtra,Aurangabad,Migration Impact Zone,0.279,0.721,Moderate Stress
+Maharashtra,Beed,Migration Impact Zone,0.324,0.676,Stable
+Maharashtra,Bhandara,Migration Impact Zone,0.241,0.759,Stable
+Maharashtra,Bid,Migration Impact Zone,0.05,0.95,Stable
+Maharashtra,Buldana,Migration Impact Zone,0.063,0.937,Stable
+Maharashtra,Buldhana,Migration Impact Zone,0.283,0.717,Stable
+Maharashtra,Chandrapur,Migration Impact Zone,0.21,0.79,Stable
+Maharashtra,Chatrapati Sambhaji Nagar,Population Expansion Zone,0.146,0.854,Stable
+Maharashtra,Chhatrapati Sambhajinagar,Population Expansion Zone,0.126,0.874,Stable
+Maharashtra,Dharashiv,Migration Impact Zone,0.092,0.908,Stable
+Maharashtra,Dhule,Migration Impact Zone,0.31,0.69,Stable
+Maharashtra,Gadchiroli,Migration Impact Zone,0.217,0.783,Stable
+Maharashtra,Gondia,Migration Impact Zone,0.036,0.964,Stable
+Maharashtra,Gondiya,Migration Impact Zone,0.249,0.751,Stable
+Maharashtra,Gondiya *,Migration Impact Zone,0.034,0.966,Stable
+Maharashtra,Hingoli,Migration Impact Zone,0.245,0.755,Stable
+Maharashtra,Hingoli *,Population Expansion Zone,0.107,0.893,Stable
+Maharashtra,Jalgaon,Migration Impact Zone,0.284,0.716,Moderate Stress
+Maharashtra,Jalna,Migration Impact Zone,0.293,0.707,Stable
+Maharashtra,Kolhapur,Migration Impact Zone,0.309,0.691,Stable
+Maharashtra,Latur,Migration Impact Zone,0.221,0.779,Stable
+Maharashtra,Mumbai,Migration Impact Zone,0.237,0.763,Moderate Stress
+Maharashtra,Mumbai City,Migration Impact Zone,0.361,0.639,Stable
+Maharashtra,Mumbai Suburban,Migration Impact Zone,0.362,0.638,Stable
+Maharashtra,Mumbai( Sub Urban ),Migration Impact Zone,0.07,0.93,Stable
+Maharashtra,Nagpur,Migration Impact Zone,0.257,0.743,Moderate Stress
+Maharashtra,Nanded,Migration Impact Zone,0.231,0.769,Moderate Stress
+Maharashtra,Nandurbar,Migration Impact Zone,0.303,0.697,Stable
+Maharashtra,Nandurbar *,Migration Impact Zone,0.044,0.956,Stable
+Maharashtra,Nashik,Correctional Overload Zone,0.292,0.708,High Stress
+Maharashtra,Osmanabad,Migration Impact Zone,0.257,0.743,Stable
+Maharashtra,Palghar,Migration Impact Zone,0.368,0.632,Stable
+Maharashtra,Parbhani,Migration Impact Zone,0.282,0.718,Stable
+Maharashtra,Pune,Migration Impact Zone,0.314,0.686,High Stress
+Maharashtra,Raigad,Population Expansion Zone,0.186,0.814,Stable
+Maharashtra,Raigarh,Migration Impact Zone,0.334,0.666,Stable
+Maharashtra,Raigarh(Mh),Migration Impact Zone,0.069,0.931,Stable
+Maharashtra,Ratnagiri,Migration Impact Zone,0.31,0.69,Stable
+Maharashtra,Sangli,Migration Impact Zone,0.32,0.68,Stable
+Maharashtra,Satara,Migration Impact Zone,0.356,0.644,Stable
+Maharashtra,Sindhudurg,Migration Impact Zone,0.305,0.695,Stable
+Maharashtra,Solapur,Migration Impact Zone,0.284,0.716,Moderate Stress
+Maharashtra,Thane,Correctional Overload Zone,0.26,0.74,High Stress
+Maharashtra,Wardha,Migration Impact Zone,0.264,0.736,Stable
+Maharashtra,Washim,Migration Impact Zone,0.243,0.757,Stable
+Maharashtra,Washim *,Migration Impact Zone,0.037,0.963,Stable
+Maharashtra,Yavatmal,Migration Impact Zone,0.193,0.807,Moderate Stress
+Rajasthan,Ajmer,Migration Impact Zone,0.394,0.606,Stable
+Rajasthan,Alwar,Migration Impact Zone,0.437,0.563,Stable
+Rajasthan,Balotra,Population Expansion Zone,0.067,0.933,Stable
+Rajasthan,Banswara,Migration Impact Zone,0.338,0.662,Stable
+Rajasthan,Baran,Migration Impact Zone,0.353,0.647,Stable
+Rajasthan,Barmer,Migration Impact Zone,0.479,0.521,Stable
+Rajasthan,Beawar,Population Expansion Zone,0.051,0.949,Stable
+Rajasthan,Bharatpur,Migration Impact Zone,0.415,0.585,Stable
+Rajasthan,Bhilwara,Migration Impact Zone,0.365,0.635,Stable
+Rajasthan,Bikaner,Migration Impact Zone,0.392,0.608,Stable
+Rajasthan,Bundi,Migration Impact Zone,0.38,0.62,Stable
+Rajasthan,Chittaurgarh,Migration Impact Zone,0.208,0.792,Stable
+Rajasthan,Chittorgarh,Migration Impact Zone,0.368,0.632,Stable
+Rajasthan,Churu,Migration Impact Zone,0.399,0.601,Stable
+Rajasthan,Dausa,Migration Impact Zone,0.426,0.574,Stable
+Rajasthan,Deeg,Population Expansion Zone,0.089,0.911,Stable
+Rajasthan,Dhaulpur,Migration Impact Zone,0.253,0.747,Stable
+Rajasthan,Dholpur,Migration Impact Zone,0.438,0.562,Stable
+Rajasthan,Didwana-Kuchaman,Population Expansion Zone,0.084,0.916,Stable
+Rajasthan,Dungarpur,Migration Impact Zone,0.383,0.617,Stable
+Rajasthan,Ganganagar,Migration Impact Zone,0.334,0.666,Stable
+Rajasthan,Hanumangarh,Migration Impact Zone,0.326,0.674,Stable
+Rajasthan,Jaipur,Migration Impact Zone,0.334,0.666,Moderate Stress
+Rajasthan,Jaisalmer,Migration Impact Zone,0.452,0.548,Stable
+Rajasthan,Jalor,Migration Impact Zone,0.434,0.566,Stable
+Rajasthan,Jalore,Population Expansion Zone,0.18,0.82,Stable
+Rajasthan,Jhalawar,Migration Impact Zone,0.361,0.639,Stable
+Rajasthan,Jhunjhunu,Migration Impact Zone,0.153,0.847,Stable
+Rajasthan,Jhunjhunun,Migration Impact Zone,0.357,0.643,Stable
+Rajasthan,Jodhpur,Migration Impact Zone,0.414,0.586,Stable
+Rajasthan,Karauli,Migration Impact Zone,0.472,0.528,Stable
+Rajasthan,Khairthal-Tijara,Population Expansion Zone,0.058,0.942,Stable
+Rajasthan,Kota,Migration Impact Zone,0.341,0.659,Stable
+Rajasthan,Kotputli-Behror,Population Expansion Zone,0.081,0.919,Stable
+Rajasthan,Nagaur,Migration Impact Zone,0.411,0.589,Stable
+Rajasthan,Pali,Migration Impact Zone,0.378,0.622,Stable
+Rajasthan,Pratapgarh,Migration Impact Zone,0.375,0.625,Stable
+Rajasthan,Rajsamand,Migration Impact Zone,0.38,0.62,Stable
+Rajasthan,Salumbar,Population Expansion Zone,0.08,0.92,Stable
+Rajasthan,Sawai Madhopur,Migration Impact Zone,0.414,0.586,Stable
+Rajasthan,Sikar,Migration Impact Zone,0.385,0.615,Stable
+Rajasthan,Sirohi,Migration Impact Zone,0.422,0.578,Stable
+Rajasthan,Tonk,Migration Impact Zone,0.392,0.608,Stable
+Rajasthan,Udaipur,Migration Impact Zone,0.391,0.609,Stable
+UP,Agra,Migration Impact Zone,0.437,0.563,Stable
+UP,Aligarh,Migration Impact Zone,0.445,0.555,Stable
+UP,Allahabad,Migration Impact Zone,0.456,0.544,Stable
+UP,Ambedkar Nagar,Migration Impact Zone,0.404,0.596,Stable
+UP,Amethi,Migration Impact Zone,0.413,0.587,Stable
+UP,Amroha,Migration Impact Zone,0.416,0.584,Stable
+UP,Auraiya,Migration Impact Zone,0.447,0.553,Stable
+UP,Ayodhya,Migration Impact Zone,0.245,0.755,Stable
+UP,Azamgarh,Migration Impact Zone,0.374,0.626,Stable
+UP,Baghpat,Migration Impact Zone,0.406,0.594,Stable
+UP,Bagpat,Population Expansion Zone,0.243,0.757,Stable
+UP,Bahraich,Migration Impact Zone,0.507,0.493,Stable
+UP,Ballia,Migration Impact Zone,0.401,0.599,Stable
+UP,Balrampur,Migration Impact Zone,0.42,0.58,Stable
+UP,Banda,Migration Impact Zone,0.427,0.573,Stable
+UP,Bara Banki,Migration Impact Zone,0.453,0.547,Stable
+UP,Barabanki,Migration Impact Zone,0.209,0.791,Stable
+UP,Bareilly,Migration Impact Zone,0.434,0.566,Moderate Stress
+UP,Basti,Migration Impact Zone,0.432,0.568,Stable
+UP,Bhadohi,Migration Impact Zone,0.289,0.711,Stable
+UP,Bijnor,Migration Impact Zone,0.398,0.602,Stable
+UP,Budaun,Population Expansion Zone,0.362,0.638,Stable
+UP,Bulandshahar,Migration Impact Zone,0.159,0.841,Stable
+UP,Bulandshahr,Migration Impact Zone,0.452,0.548,Stable
+UP,Chandauli,Migration Impact Zone,0.42,0.58,Stable
+UP,Chitrakoot,Migration Impact Zone,0.465,0.535,Stable
+UP,Deoria,Migration Impact Zone,0.384,0.616,Stable
+UP,Etah,Migration Impact Zone,0.497,0.503,Stable
+UP,Etawah,Migration Impact Zone,0.431,0.569,Stable
+UP,Faizabad,Migration Impact Zone,0.464,0.536,Stable
+UP,Farrukhabad,Migration Impact Zone,0.442,0.558,Stable
+UP,Fatehpur,Migration Impact Zone,0.383,0.617,Stable
+UP,Firozabad,Population Expansion Zone,0.39,0.61,Stable
+UP,Gautam Buddha Nagar,Population Expansion Zone,0.313,0.687,Stable
+UP,Ghaziabad,Migration Impact Zone,0.32,0.68,Stable
+UP,Ghazipur,Migration Impact Zone,0.412,0.588,Stable
+UP,Gonda,Migration Impact Zone,0.434,0.566,Stable
+UP,Gorakhpur,Migration Impact Zone,0.328,0.672,Stable
+UP,Hamirpur,Migration Impact Zone,0.427,0.573,Stable
+UP,Hapur,Migration Impact Zone,0.448,0.552,Stable
+UP,Hardoi,Migration Impact Zone,0.508,0.492,Stable
+UP,Hathras,Migration Impact Zone,0.509,0.491,Stable
+UP,Jalaun,Migration Impact Zone,0.4,0.6,Stable
+UP,Jaunpur,Migration Impact Zone,0.406,0.594,Stable
+UP,Jhansi,Migration Impact Zone,0.419,0.581,Stable
+UP,Jyotiba Phule Nagar,Migration Impact Zone,0.069,0.931,Stable
+UP,Kannauj,Migration Impact Zone,0.458,0.542,Stable
+UP,Kanpur Dehat,Migration Impact Zone,0.437,0.563,Stable
+UP,Kanpur Nagar,Migration Impact Zone,0.349,0.651,Stable
+UP,Kasganj,Migration Impact Zone,0.465,0.535,Stable
+UP,Kaushambi,Migration Impact Zone,0.507,0.493,Stable
+UP,Kheri,Migration Impact Zone,0.442,0.558,Stable
+UP,Kushinagar,Migration Impact Zone,0.352,0.648,Stable
+UP,Kushinagar *,Population Expansion Zone,0.177,0.823,Stable
+UP,Lalitpur,Migration Impact Zone,0.421,0.579,Stable
+UP,Lucknow,Migration Impact Zone,0.357,0.643,Stable
+UP,Maharajganj,Migration Impact Zone,0.38,0.62,Stable
+UP,Mahoba,Migration Impact Zone,0.448,0.552,Stable
+UP,Mahrajganj,Population Expansion Zone,0.2,0.8,Stable
+UP,Mainpuri,Migration Impact Zone,0.423,0.577,Stable
+UP,Mathura,Migration Impact Zone,0.421,0.579,Stable
+UP,Mau,Migration Impact Zone,0.34,0.66,Stable
+UP,Meerut,Migration Impact Zone,0.393,0.607,Stable
+UP,Mirzapur,Migration Impact Zone,0.448,0.552,Stable
+UP,Moradabad,Migration Impact Zone,0.375,0.625,Stable
+UP,Muzaffarnagar,Migration Impact Zone,0.427,0.573,Stable
+UP,Pilibhit,Migration Impact Zone,0.419,0.581,Stable
+UP,Pratapgarh,Migration Impact Zone,0.405,0.595,Stable
+UP,Prayagraj,Migration Impact Zone,0.292,0.708,Stable
+UP,Rae Bareli,Migration Impact Zone,0.414,0.586,Stable
+UP,Raebareli,Population Expansion Zone,0.157,0.843,Stable
+UP,Rampur,Migration Impact Zone,0.417,0.583,Stable
+UP,Saharanpur,Migration Impact Zone,0.405,0.595,Stable
+UP,Sambhal,Migration Impact Zone,0.44,0.56,Stable
+UP,Sant Kabir Nagar,Migration Impact Zone,0.4,0.6,Stable
+UP,Sant Ravidas Nagar,Migration Impact Zone,0.453,0.547,Stable
+UP,Sant Ravidas Nagar Bhadohi,Population Expansion Zone,0.232,0.768,Stable
+UP,Shahjahanpur,Migration Impact Zone,0.451,0.549,Stable
+UP,Shamli,Migration Impact Zone,0.437,0.563,Stable
+UP,Shrawasti,Migration Impact Zone,0.369,0.631,Stable
+UP,Siddharthnagar,Migration Impact Zone,0.401,0.599,Stable
+UP,Sitapur,Migration Impact Zone,0.512,0.488,Moderate Stress
+UP,Sonbhadra,Migration Impact Zone,0.466,0.534,Stable
+UP,Sultanpur,Migration Impact Zone,0.42,0.58,Stable
+UP,Unnao,Migration Impact Zone,0.396,0.604,Stable
+UP,Varanasi,Migration Impact Zone,0.377,0.623,Stable

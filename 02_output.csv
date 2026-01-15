@@ -1,0 +1,196 @@
+state,district,enrollment_ratio,biometric_ratio,demographic_ratio,dominant_type,dominance_score,dominance_strength,operational_meaning
+Delhi,Central Delhi,0.036,0.563,0.401,Biometric,0.563,Mixed Demand,General Service Load
+Delhi,East Delhi,0.039,0.511,0.45,Biometric,0.511,Mixed Demand,General Service Load
+Delhi,Najafgarh,0.02,0.852,0.128,Biometric,0.852,Strong Dominant,Maintenance Burden
+Delhi,New Delhi,0.141,0.587,0.272,Biometric,0.587,Mixed Demand,General Service Load
+Delhi,North Delhi,0.035,0.487,0.478,Biometric,0.487,Mixed Demand,General Service Load
+Delhi,North East,0.03,0.783,0.187,Biometric,0.783,Strong Dominant,Maintenance Burden
+Delhi,North East Delhi,0.039,0.589,0.372,Biometric,0.589,Mixed Demand,General Service Load
+Delhi,North West Delhi,0.024,0.582,0.394,Biometric,0.582,Mixed Demand,General Service Load
+Delhi,Shahdara,0.04,0.235,0.725,Demographic,0.725,Strong Dominant,General Service Load
+Delhi,South Delhi,0.032,0.559,0.409,Biometric,0.559,Mixed Demand,General Service Load
+Delhi,South East Delhi,0.022,0.405,0.573,Demographic,0.573,Mixed Demand,General Service Load
+Delhi,South West Delhi,0.031,0.517,0.453,Biometric,0.517,Mixed Demand,General Service Load
+Delhi,West Delhi,0.044,0.511,0.445,Biometric,0.511,Mixed Demand,General Service Load
+Maharashtra,Ahilyanagar,0.004,0.362,0.633,Demographic,0.633,Strong Dominant,General Service Load
+Maharashtra,Ahmadnagar,0.023,0.643,0.335,Biometric,0.643,Strong Dominant,Maintenance Burden
+Maharashtra,Ahmed Nagar,0.025,0.623,0.351,Biometric,0.623,Strong Dominant,Maintenance Burden
+Maharashtra,Akola,0.021,0.744,0.235,Biometric,0.744,Strong Dominant,Maintenance Burden
+Maharashtra,Amravati,0.017,0.768,0.215,Biometric,0.768,Strong Dominant,Maintenance Burden
+Maharashtra,Aurangabad,0.039,0.671,0.29,Biometric,0.671,Strong Dominant,Maintenance Burden
+Maharashtra,Beed,0.026,0.636,0.338,Biometric,0.636,Strong Dominant,Maintenance Burden
+Maharashtra,Bhandara,0.016,0.701,0.283,Biometric,0.701,Strong Dominant,Maintenance Burden
+Maharashtra,Bid,0.025,0.583,0.393,Biometric,0.583,Mixed Demand,General Service Load
+Maharashtra,Buldana,0.019,0.637,0.344,Biometric,0.637,Strong Dominant,Maintenance Burden
+Maharashtra,Buldhana,0.022,0.667,0.311,Biometric,0.667,Strong Dominant,Maintenance Burden
+Maharashtra,Chandrapur,0.015,0.662,0.323,Biometric,0.662,Strong Dominant,Maintenance Burden
+Maharashtra,Chatrapati Sambhaji Nagar,0.03,0.317,0.652,Demographic,0.652,Strong Dominant,General Service Load
+Maharashtra,Chhatrapati Sambhajinagar,0.036,0.463,0.502,Demographic,0.502,Mixed Demand,General Service Load
+Maharashtra,Dharashiv,0.022,0.529,0.449,Biometric,0.529,Mixed Demand,General Service Load
+Maharashtra,Dhule,0.047,0.722,0.231,Biometric,0.722,Strong Dominant,Maintenance Burden
+Maharashtra,Gadchiroli,0.013,0.746,0.241,Biometric,0.746,Strong Dominant,Maintenance Burden
+Maharashtra,Gondia,0.012,0.608,0.379,Biometric,0.608,Strong Dominant,Maintenance Burden
+Maharashtra,Gondiya,0.018,0.604,0.378,Biometric,0.604,Strong Dominant,Maintenance Burden
+Maharashtra,Gondiya *,0.013,0.572,0.415,Biometric,0.572,Mixed Demand,General Service Load
+Maharashtra,Hingoli,0.036,0.548,0.416,Biometric,0.548,Mixed Demand,General Service Load
+Maharashtra,Hingoli *,0.036,0.929,0.036,Biometric,0.929,Strong Dominant,Maintenance Burden
+Maharashtra,Jalgaon,0.025,0.726,0.249,Biometric,0.726,Strong Dominant,Maintenance Burden
+Maharashtra,Jalna,0.023,0.715,0.263,Biometric,0.715,Strong Dominant,Maintenance Burden
+Maharashtra,Kolhapur,0.021,0.665,0.314,Biometric,0.665,Strong Dominant,Maintenance Burden
+Maharashtra,Latur,0.022,0.644,0.334,Biometric,0.644,Strong Dominant,Maintenance Burden
+Maharashtra,Mumbai,0.03,0.738,0.232,Biometric,0.738,Strong Dominant,Maintenance Burden
+Maharashtra,Mumbai City,0.032,0.518,0.449,Biometric,0.518,Mixed Demand,General Service Load
+Maharashtra,Mumbai Suburban,0.05,0.5,0.45,Biometric,0.5,Mixed Demand,General Service Load
+Maharashtra,Mumbai( Sub Urban ),0.034,0.683,0.282,Biometric,0.683,Strong Dominant,Maintenance Burden
+Maharashtra,Nagpur,0.025,0.685,0.29,Biometric,0.685,Strong Dominant,Maintenance Burden
+Maharashtra,Nanded,0.022,0.601,0.376,Biometric,0.601,Strong Dominant,Maintenance Burden
+Maharashtra,Nandurbar,0.041,0.823,0.136,Biometric,0.823,Strong Dominant,Maintenance Burden
+Maharashtra,Nandurbar *,0.038,0.823,0.139,Biometric,0.823,Strong Dominant,Maintenance Burden
+Maharashtra,Nashik,0.029,0.712,0.259,Biometric,0.712,Strong Dominant,Maintenance Burden
+Maharashtra,Osmanabad,0.018,0.591,0.39,Biometric,0.591,Mixed Demand,General Service Load
+Maharashtra,Palghar,0.039,0.571,0.391,Biometric,0.571,Mixed Demand,General Service Load
+Maharashtra,Parbhani,0.022,0.613,0.366,Biometric,0.613,Strong Dominant,Maintenance Burden
+Maharashtra,Pune,0.033,0.586,0.381,Biometric,0.586,Mixed Demand,General Service Load
+Maharashtra,Raigad,0.056,0.343,0.601,Demographic,0.601,Strong Dominant,General Service Load
+Maharashtra,Raigarh,0.023,0.662,0.316,Biometric,0.662,Strong Dominant,Maintenance Burden
+Maharashtra,Raigarh(Mh),0.042,0.576,0.382,Biometric,0.576,Mixed Demand,General Service Load
+Maharashtra,Ratnagiri,0.014,0.735,0.251,Biometric,0.735,Strong Dominant,Maintenance Burden
+Maharashtra,Sangli,0.026,0.705,0.269,Biometric,0.705,Strong Dominant,Maintenance Burden
+Maharashtra,Satara,0.02,0.686,0.293,Biometric,0.686,Strong Dominant,Maintenance Burden
+Maharashtra,Sindhudurg,0.015,0.677,0.308,Biometric,0.677,Strong Dominant,Maintenance Burden
+Maharashtra,Solapur,0.023,0.565,0.412,Biometric,0.565,Mixed Demand,General Service Load
+Maharashtra,Thane,0.044,0.583,0.373,Biometric,0.583,Mixed Demand,General Service Load
+Maharashtra,Wardha,0.014,0.783,0.203,Biometric,0.783,Strong Dominant,Maintenance Burden
+Maharashtra,Washim,0.018,0.71,0.272,Biometric,0.71,Strong Dominant,Maintenance Burden
+Maharashtra,Washim *,0.013,0.651,0.335,Biometric,0.651,Strong Dominant,Maintenance Burden
+Maharashtra,Yavatmal,0.016,0.618,0.366,Biometric,0.618,Strong Dominant,Maintenance Burden
+Rajasthan,Ajmer,0.044,0.59,0.366,Biometric,0.59,Mixed Demand,General Service Load
+Rajasthan,Alwar,0.057,0.651,0.291,Biometric,0.651,Strong Dominant,Maintenance Burden
+Rajasthan,Balotra,0.001,0.427,0.572,Demographic,0.572,Mixed Demand,General Service Load
+Rajasthan,Banswara,0.034,0.51,0.456,Biometric,0.51,Mixed Demand,General Service Load
+Rajasthan,Baran,0.039,0.601,0.359,Biometric,0.601,Strong Dominant,Maintenance Burden
+Rajasthan,Barmer,0.055,0.709,0.237,Biometric,0.709,Strong Dominant,Maintenance Burden
+Rajasthan,Beawar,0.001,0.369,0.63,Demographic,0.63,Strong Dominant,General Service Load
+Rajasthan,Bharatpur,0.062,0.609,0.329,Biometric,0.609,Strong Dominant,Maintenance Burden
+Rajasthan,Bhilwara,0.044,0.588,0.368,Biometric,0.588,Mixed Demand,General Service Load
+Rajasthan,Bikaner,0.056,0.676,0.268,Biometric,0.676,Strong Dominant,Maintenance Burden
+Rajasthan,Bundi,0.044,0.623,0.334,Biometric,0.623,Strong Dominant,Maintenance Burden
+Rajasthan,Chittaurgarh,0.058,0.654,0.288,Biometric,0.654,Strong Dominant,Maintenance Burden
+Rajasthan,Chittorgarh,0.045,0.551,0.404,Biometric,0.551,Mixed Demand,General Service Load
+Rajasthan,Churu,0.053,0.655,0.292,Biometric,0.655,Strong Dominant,Maintenance Burden
+Rajasthan,Dausa,0.038,0.717,0.245,Biometric,0.717,Strong Dominant,Maintenance Burden
+Rajasthan,Deeg,0.023,0.483,0.494,Demographic,0.494,Mixed Demand,General Service Load
+Rajasthan,Dhaulpur,0.11,0.567,0.324,Biometric,0.567,Mixed Demand,General Service Load
+Rajasthan,Dholpur,0.054,0.556,0.39,Biometric,0.556,Mixed Demand,General Service Load
+Rajasthan,Didwana-Kuchaman,0.002,0.379,0.62,Demographic,0.62,Strong Dominant,General Service Load
+Rajasthan,Dungarpur,0.036,0.574,0.39,Biometric,0.574,Mixed Demand,General Service Load
+Rajasthan,Ganganagar,0.032,0.649,0.319,Biometric,0.649,Strong Dominant,Maintenance Burden
+Rajasthan,Hanumangarh,0.029,0.632,0.34,Biometric,0.632,Strong Dominant,Maintenance Burden
+Rajasthan,Jaipur,0.046,0.605,0.349,Biometric,0.605,Strong Dominant,Maintenance Burden
+Rajasthan,Jaisalmer,0.042,0.717,0.241,Biometric,0.717,Strong Dominant,Maintenance Burden
+Rajasthan,Jalor,0.077,0.659,0.264,Biometric,0.659,Strong Dominant,Maintenance Burden
+Rajasthan,Jalore,0.138,0.392,0.469,Demographic,0.469,Mixed Demand,General Service Load
+Rajasthan,Jhalawar,0.044,0.565,0.392,Biometric,0.565,Mixed Demand,General Service Load
+Rajasthan,Jhunjhunu,0.04,0.585,0.376,Biometric,0.585,Mixed Demand,General Service Load
+Rajasthan,Jhunjhunun,0.043,0.695,0.262,Biometric,0.695,Strong Dominant,Maintenance Burden
+Rajasthan,Jodhpur,0.056,0.654,0.289,Biometric,0.654,Strong Dominant,Maintenance Burden
+Rajasthan,Karauli,0.06,0.631,0.309,Biometric,0.631,Strong Dominant,Maintenance Burden
+Rajasthan,Khairthal-Tijara,0.0,0.363,0.637,Demographic,0.637,Strong Dominant,General Service Load
+Rajasthan,Kota,0.039,0.558,0.403,Biometric,0.558,Mixed Demand,General Service Load
+Rajasthan,Kotputli-Behror,0.001,0.363,0.636,Demographic,0.636,Strong Dominant,General Service Load
+Rajasthan,Nagaur,0.049,0.679,0.272,Biometric,0.679,Strong Dominant,Maintenance Burden
+Rajasthan,Pali,0.04,0.738,0.222,Biometric,0.738,Strong Dominant,Maintenance Burden
+Rajasthan,Pratapgarh,0.036,0.576,0.388,Biometric,0.576,Mixed Demand,General Service Load
+Rajasthan,Rajsamand,0.038,0.6,0.361,Biometric,0.6,Strong Dominant,Maintenance Burden
+Rajasthan,Salumbar,0.001,0.411,0.587,Demographic,0.587,Mixed Demand,General Service Load
+Rajasthan,Sawai Madhopur,0.046,0.664,0.289,Biometric,0.664,Strong Dominant,Maintenance Burden
+Rajasthan,Sikar,0.043,0.706,0.251,Biometric,0.706,Strong Dominant,Maintenance Burden
+Rajasthan,Sirohi,0.081,0.656,0.264,Biometric,0.656,Strong Dominant,Maintenance Burden
+Rajasthan,Tonk,0.04,0.64,0.32,Biometric,0.64,Strong Dominant,Maintenance Burden
+Rajasthan,Udaipur,0.043,0.632,0.326,Biometric,0.632,Strong Dominant,Maintenance Burden
+UP,Agra,0.062,0.566,0.372,Biometric,0.566,Mixed Demand,General Service Load
+UP,Aligarh,0.059,0.53,0.411,Biometric,0.53,Mixed Demand,General Service Load
+UP,Allahabad,0.029,0.618,0.353,Biometric,0.618,Strong Dominant,Maintenance Burden
+UP,Ambedkar Nagar,0.044,0.571,0.385,Biometric,0.571,Mixed Demand,General Service Load
+UP,Amethi,0.041,0.59,0.37,Biometric,0.59,Mixed Demand,General Service Load
+UP,Amroha,0.043,0.536,0.42,Biometric,0.536,Mixed Demand,General Service Load
+UP,Auraiya,0.032,0.604,0.365,Biometric,0.604,Strong Dominant,Maintenance Burden
+UP,Ayodhya,0.045,0.558,0.397,Biometric,0.558,Mixed Demand,General Service Load
+UP,Azamgarh,0.055,0.557,0.388,Biometric,0.557,Mixed Demand,General Service Load
+UP,Baghpat,0.053,0.548,0.399,Biometric,0.548,Mixed Demand,General Service Load
+UP,Bagpat,0.057,0.686,0.257,Biometric,0.686,Strong Dominant,Maintenance Burden
+UP,Bahraich,0.096,0.568,0.337,Biometric,0.568,Mixed Demand,General Service Load
+UP,Ballia,0.04,0.587,0.373,Biometric,0.587,Mixed Demand,General Service Load
+UP,Balrampur,0.059,0.557,0.384,Biometric,0.557,Mixed Demand,General Service Load
+UP,Banda,0.057,0.589,0.354,Biometric,0.589,Mixed Demand,General Service Load
+UP,Bara Banki,0.032,0.626,0.342,Biometric,0.626,Strong Dominant,Maintenance Burden
+UP,Barabanki,0.144,0.504,0.352,Biometric,0.504,Mixed Demand,General Service Load
+UP,Bareilly,0.05,0.531,0.418,Biometric,0.531,Mixed Demand,General Service Load
+UP,Basti,0.048,0.586,0.366,Biometric,0.586,Mixed Demand,General Service Load
+UP,Bhadohi,0.028,0.505,0.467,Biometric,0.505,Mixed Demand,General Service Load
+UP,Bijnor,0.038,0.536,0.426,Biometric,0.536,Mixed Demand,General Service Load
+UP,Budaun,0.05,0.438,0.512,Demographic,0.512,Mixed Demand,General Service Load
+UP,Bulandshahar,0.086,0.581,0.333,Biometric,0.581,Mixed Demand,General Service Load
+UP,Bulandshahr,0.046,0.542,0.411,Biometric,0.542,Mixed Demand,General Service Load
+UP,Chandauli,0.045,0.542,0.413,Biometric,0.542,Mixed Demand,General Service Load
+UP,Chitrakoot,0.05,0.603,0.346,Biometric,0.603,Strong Dominant,Maintenance Burden
+UP,Deoria,0.039,0.585,0.376,Biometric,0.585,Mixed Demand,General Service Load
+UP,Etah,0.067,0.594,0.339,Biometric,0.594,Mixed Demand,General Service Load
+UP,Etawah,0.048,0.575,0.376,Biometric,0.575,Mixed Demand,General Service Load
+UP,Faizabad,0.039,0.62,0.341,Biometric,0.62,Strong Dominant,Maintenance Burden
+UP,Farrukhabad,0.038,0.575,0.387,Biometric,0.575,Mixed Demand,General Service Load
+UP,Fatehpur,0.048,0.551,0.401,Biometric,0.551,Mixed Demand,General Service Load
+UP,Firozabad,0.045,0.473,0.482,Demographic,0.482,Mixed Demand,General Service Load
+UP,Gautam Buddha Nagar,0.066,0.411,0.524,Demographic,0.524,Mixed Demand,General Service Load
+UP,Ghaziabad,0.049,0.485,0.466,Biometric,0.485,Mixed Demand,General Service Load
+UP,Ghazipur,0.04,0.567,0.393,Biometric,0.567,Mixed Demand,General Service Load
+UP,Gonda,0.05,0.579,0.371,Biometric,0.579,Mixed Demand,General Service Load
+UP,Gorakhpur,0.054,0.553,0.394,Biometric,0.553,Mixed Demand,General Service Load
+UP,Hamirpur,0.036,0.602,0.362,Biometric,0.602,Strong Dominant,Maintenance Burden
+UP,Hapur,0.063,0.559,0.378,Biometric,0.559,Mixed Demand,General Service Load
+UP,Hardoi,0.065,0.601,0.334,Biometric,0.601,Strong Dominant,Maintenance Burden
+UP,Hathras,0.043,0.622,0.336,Biometric,0.622,Strong Dominant,Maintenance Burden
+UP,Jalaun,0.038,0.584,0.378,Biometric,0.584,Mixed Demand,General Service Load
+UP,Jaunpur,0.044,0.581,0.375,Biometric,0.581,Mixed Demand,General Service Load
+UP,Jhansi,0.039,0.637,0.324,Biometric,0.637,Strong Dominant,Maintenance Burden
+UP,Jyotiba Phule Nagar,0.045,0.62,0.335,Biometric,0.62,Strong Dominant,Maintenance Burden
+UP,Kannauj,0.046,0.576,0.378,Biometric,0.576,Mixed Demand,General Service Load
+UP,Kanpur Dehat,0.051,0.546,0.403,Biometric,0.546,Mixed Demand,General Service Load
+UP,Kanpur Nagar,0.06,0.547,0.394,Biometric,0.547,Mixed Demand,General Service Load
+UP,Kasganj,0.045,0.618,0.337,Biometric,0.618,Strong Dominant,Maintenance Burden
+UP,Kaushambi,0.042,0.601,0.357,Biometric,0.601,Strong Dominant,Maintenance Burden
+UP,Kheri,0.058,0.529,0.412,Biometric,0.529,Mixed Demand,General Service Load
+UP,Kushinagar,0.035,0.535,0.43,Biometric,0.535,Mixed Demand,General Service Load
+UP,Kushinagar *,0.015,0.635,0.35,Biometric,0.635,Strong Dominant,Maintenance Burden
+UP,Lalitpur,0.037,0.639,0.325,Biometric,0.639,Strong Dominant,Maintenance Burden
+UP,Lucknow,0.054,0.537,0.409,Biometric,0.537,Mixed Demand,General Service Load
+UP,Maharajganj,0.072,0.508,0.42,Biometric,0.508,Mixed Demand,General Service Load
+UP,Mahoba,0.036,0.622,0.342,Biometric,0.622,Strong Dominant,Maintenance Burden
+UP,Mahrajganj,0.069,0.728,0.203,Biometric,0.728,Strong Dominant,Maintenance Burden
+UP,Mainpuri,0.073,0.536,0.392,Biometric,0.536,Mixed Demand,General Service Load
+UP,Mathura,0.05,0.552,0.399,Biometric,0.552,Mixed Demand,General Service Load
+UP,Mau,0.039,0.526,0.435,Biometric,0.526,Mixed Demand,General Service Load
+UP,Meerut,0.062,0.526,0.411,Biometric,0.526,Mixed Demand,General Service Load
+UP,Mirzapur,0.04,0.593,0.367,Biometric,0.593,Mixed Demand,General Service Load
+UP,Moradabad,0.061,0.491,0.448,Biometric,0.491,Mixed Demand,General Service Load
+UP,Muzaffarnagar,0.037,0.581,0.382,Biometric,0.581,Mixed Demand,General Service Load
+UP,Pilibhit,0.047,0.523,0.43,Biometric,0.523,Mixed Demand,General Service Load
+UP,Pratapgarh,0.043,0.591,0.367,Biometric,0.591,Mixed Demand,General Service Load
+UP,Prayagraj,0.047,0.506,0.447,Biometric,0.506,Mixed Demand,General Service Load
+UP,Rae Bareli,0.04,0.571,0.389,Biometric,0.571,Mixed Demand,General Service Load
+UP,Raebareli,0.036,0.771,0.193,Biometric,0.771,Strong Dominant,Maintenance Burden
+UP,Rampur,0.065,0.503,0.432,Biometric,0.503,Mixed Demand,General Service Load
+UP,Saharanpur,0.046,0.584,0.37,Biometric,0.584,Mixed Demand,General Service Load
+UP,Sambhal,0.04,0.53,0.43,Biometric,0.53,Mixed Demand,General Service Load
+UP,Sant Kabir Nagar,0.035,0.581,0.384,Biometric,0.581,Mixed Demand,General Service Load
+UP,Sant Ravidas Nagar,0.039,0.608,0.353,Biometric,0.608,Strong Dominant,Maintenance Burden
+UP,Sant Ravidas Nagar Bhadohi,0.085,0.639,0.276,Biometric,0.639,Strong Dominant,Maintenance Burden
+UP,Shahjahanpur,0.072,0.503,0.425,Biometric,0.503,Mixed Demand,General Service Load
+UP,Shamli,0.044,0.621,0.334,Biometric,0.621,Strong Dominant,Maintenance Burden
+UP,Shrawasti,0.042,0.515,0.443,Biometric,0.515,Mixed Demand,General Service Load
+UP,Siddharthnagar,0.06,0.548,0.392,Biometric,0.548,Mixed Demand,General Service Load
+UP,Sitapur,0.06,0.607,0.333,Biometric,0.607,Strong Dominant,Maintenance Burden
+UP,Sonbhadra,0.029,0.644,0.327,Biometric,0.644,Strong Dominant,Maintenance Burden
+UP,Sultanpur,0.056,0.571,0.373,Biometric,0.571,Mixed Demand,General Service Load
+UP,Unnao,0.063,0.526,0.411,Biometric,0.526,Mixed Demand,General Service Load
+UP,Varanasi,0.061,0.548,0.391,Biometric,0.548,Mixed Demand,General Service Load

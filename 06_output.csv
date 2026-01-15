@@ -1,0 +1,196 @@
+state,district,classification,pressure_tier,recommended_action,rationale
+Delhi,Central Delhi,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+Delhi,East Delhi,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+Delhi,Najafgarh,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Delhi,New Delhi,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+Delhi,North Delhi,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+Delhi,North East,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Delhi,North East Delhi,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+Delhi,North West Delhi,Migration Impact Zone,Moderate Stress,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+Delhi,Shahdara,Population Expansion Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+Delhi,South Delhi,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+Delhi,South East Delhi,Population Expansion Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+Delhi,South West Delhi,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+Delhi,West Delhi,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+Maharashtra,Ahilyanagar,Population Expansion Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+Maharashtra,Ahmadnagar,Migration Impact Zone,Moderate Stress,Increase biometric operators,Biometric heavy load requires specialized operators.
+Maharashtra,Ahmed Nagar,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Maharashtra,Akola,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Maharashtra,Amravati,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Maharashtra,Aurangabad,Migration Impact Zone,Moderate Stress,Increase biometric operators,Biometric heavy load requires specialized operators.
+Maharashtra,Beed,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Maharashtra,Bhandara,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Maharashtra,Bid,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+Maharashtra,Buldana,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Maharashtra,Buldhana,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Maharashtra,Chandrapur,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Maharashtra,Chatrapati Sambhaji Nagar,Population Expansion Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+Maharashtra,Chhatrapati Sambhajinagar,Population Expansion Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+Maharashtra,Dharashiv,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+Maharashtra,Dhule,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Maharashtra,Gadchiroli,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Maharashtra,Gondia,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Maharashtra,Gondiya,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Maharashtra,Gondiya *,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+Maharashtra,Hingoli,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+Maharashtra,Hingoli *,Population Expansion Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Maharashtra,Jalgaon,Migration Impact Zone,Moderate Stress,Increase biometric operators,Biometric heavy load requires specialized operators.
+Maharashtra,Jalna,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Maharashtra,Kolhapur,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Maharashtra,Latur,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Maharashtra,Mumbai,Migration Impact Zone,Moderate Stress,Increase biometric operators,Biometric heavy load requires specialized operators.
+Maharashtra,Mumbai City,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+Maharashtra,Mumbai Suburban,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+Maharashtra,Mumbai( Sub Urban ),Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Maharashtra,Nagpur,Migration Impact Zone,Moderate Stress,Increase biometric operators,Biometric heavy load requires specialized operators.
+Maharashtra,Nanded,Migration Impact Zone,Moderate Stress,Increase biometric operators,Biometric heavy load requires specialized operators.
+Maharashtra,Nandurbar,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Maharashtra,Nandurbar *,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Maharashtra,Nashik,Correctional Overload Zone,High Stress,Set up temporary camps,Adult dominance suggests high demand for updates.
+Maharashtra,Osmanabad,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+Maharashtra,Palghar,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+Maharashtra,Parbhani,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Maharashtra,Pune,Migration Impact Zone,High Stress,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+Maharashtra,Raigad,Population Expansion Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+Maharashtra,Raigarh,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Maharashtra,Raigarh(Mh),Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+Maharashtra,Ratnagiri,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Maharashtra,Sangli,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Maharashtra,Satara,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Maharashtra,Sindhudurg,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Maharashtra,Solapur,Migration Impact Zone,Moderate Stress,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+Maharashtra,Thane,Correctional Overload Zone,High Stress,Set up temporary camps,Adult dominance suggests high demand for updates.
+Maharashtra,Wardha,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Maharashtra,Washim,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Maharashtra,Washim *,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Maharashtra,Yavatmal,Migration Impact Zone,Moderate Stress,Increase biometric operators,Biometric heavy load requires specialized operators.
+Rajasthan,Ajmer,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+Rajasthan,Alwar,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Rajasthan,Balotra,Population Expansion Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+Rajasthan,Banswara,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+Rajasthan,Baran,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Rajasthan,Barmer,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Rajasthan,Beawar,Population Expansion Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+Rajasthan,Bharatpur,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Rajasthan,Bhilwara,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+Rajasthan,Bikaner,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Rajasthan,Bundi,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Rajasthan,Chittaurgarh,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Rajasthan,Chittorgarh,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+Rajasthan,Churu,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Rajasthan,Dausa,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Rajasthan,Deeg,Population Expansion Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+Rajasthan,Dhaulpur,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+Rajasthan,Dholpur,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+Rajasthan,Didwana-Kuchaman,Population Expansion Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+Rajasthan,Dungarpur,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+Rajasthan,Ganganagar,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Rajasthan,Hanumangarh,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Rajasthan,Jaipur,Migration Impact Zone,Moderate Stress,Increase biometric operators,Biometric heavy load requires specialized operators.
+Rajasthan,Jaisalmer,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Rajasthan,Jalor,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Rajasthan,Jalore,Population Expansion Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+Rajasthan,Jhalawar,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+Rajasthan,Jhunjhunu,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+Rajasthan,Jhunjhunun,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Rajasthan,Jodhpur,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Rajasthan,Karauli,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Rajasthan,Khairthal-Tijara,Population Expansion Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+Rajasthan,Kota,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+Rajasthan,Kotputli-Behror,Population Expansion Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+Rajasthan,Nagaur,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Rajasthan,Pali,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Rajasthan,Pratapgarh,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+Rajasthan,Rajsamand,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Rajasthan,Salumbar,Population Expansion Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+Rajasthan,Sawai Madhopur,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Rajasthan,Sikar,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Rajasthan,Sirohi,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Rajasthan,Tonk,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+Rajasthan,Udaipur,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+UP,Agra,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Aligarh,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Allahabad,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+UP,Ambedkar Nagar,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Amethi,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Amroha,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Auraiya,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+UP,Ayodhya,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Azamgarh,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Baghpat,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Bagpat,Population Expansion Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+UP,Bahraich,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Ballia,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Balrampur,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Banda,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Bara Banki,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+UP,Barabanki,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Bareilly,Migration Impact Zone,Moderate Stress,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Basti,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Bhadohi,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Bijnor,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Budaun,Population Expansion Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Bulandshahar,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Bulandshahr,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Chandauli,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Chitrakoot,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+UP,Deoria,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Etah,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Etawah,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Faizabad,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+UP,Farrukhabad,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Fatehpur,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Firozabad,Population Expansion Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Gautam Buddha Nagar,Population Expansion Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Ghaziabad,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Ghazipur,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Gonda,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Gorakhpur,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Hamirpur,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+UP,Hapur,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Hardoi,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+UP,Hathras,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+UP,Jalaun,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Jaunpur,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Jhansi,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+UP,Jyotiba Phule Nagar,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+UP,Kannauj,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Kanpur Dehat,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Kanpur Nagar,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Kasganj,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+UP,Kaushambi,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+UP,Kheri,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Kushinagar,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Kushinagar *,Population Expansion Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+UP,Lalitpur,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+UP,Lucknow,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Maharajganj,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Mahoba,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+UP,Mahrajganj,Population Expansion Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+UP,Mainpuri,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Mathura,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Mau,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Meerut,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Mirzapur,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Moradabad,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Muzaffarnagar,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Pilibhit,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Pratapgarh,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Prayagraj,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Rae Bareli,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Raebareli,Population Expansion Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+UP,Rampur,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Saharanpur,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Sambhal,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Sant Kabir Nagar,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Sant Ravidas Nagar,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+UP,Sant Ravidas Nagar Bhadohi,Population Expansion Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+UP,Shahjahanpur,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Shamli,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+UP,Shrawasti,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Siddharthnagar,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Sitapur,Migration Impact Zone,Moderate Stress,Increase biometric operators,Biometric heavy load requires specialized operators.
+UP,Sonbhadra,Migration Impact Zone,Stable,Increase biometric operators,Biometric heavy load requires specialized operators.
+UP,Sultanpur,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Unnao,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.
+UP,Varanasi,Migration Impact Zone,Stable,Deploy mobile enrollment vans,High adult correction load + volatility indicates migrant churn.

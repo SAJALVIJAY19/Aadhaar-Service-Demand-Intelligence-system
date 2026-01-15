@@ -1,0 +1,212 @@
+state,district,pressure_index,pressure_tier,total_volume,monthly_growth_rate,volatility
+Delhi,Central Delhi,0.094,Stable,123072,0.007,5786.414
+Delhi,East Delhi,0.198,Stable,308648,0.013,13283.135
+Delhi,Najafgarh,0.021,Stable,1842,-0.106,130.82
+Delhi,New Delhi,0.034,Stable,11960,0.127,510.687
+Delhi,North Delhi,0.105,Stable,144416,0.022,6150.379
+Delhi,North East,0.077,Stable,71929,0.157,5640.403
+Delhi,North East   *,0.038,Stable,5,0.5,0.707
+Delhi,North East Delhi,0.216,Stable,335965,-0.016,15578.763
+Delhi,North West Delhi,0.476,Moderate Stress,767561,-0.033,39052.981
+Delhi,Shahdara,0.057,Stable,45768,0.215,2469.114
+Delhi,South Delhi,0.305,Stable,486454,-0.038,23275.057
+Delhi,South East Delhi,0.037,Stable,3156,0.404,216.46
+Delhi,South West Delhi,0.216,Stable,343698,-0.015,14567.023
+Delhi,West Delhi,0.317,Stable,485418,-0.028,27007.085
+Maharashtra,Ahilyanagar,0.08,Stable,5989,1.611,1517.889
+Maharashtra,Ahmadnagar,0.481,Moderate Stress,677486,0.247,49645.054
+Maharashtra,Ahmed Nagar,0.052,Stable,16791,0.533,1631.501
+Maharashtra,Ahmednagar,0.023,Stable,368,0.0,
+Maharashtra,Akola,0.202,Stable,289080,0.093,16244.726
+Maharashtra,Amravati,0.327,Stable,495520,0.131,27329.416
+Maharashtra,Aurangabad,0.351,Moderate Stress,529019,0.121,30492.784
+Maharashtra,Beed,0.322,Stable,471756,0.217,27917.656
+Maharashtra,Bhandara,0.125,Stable,157470,0.131,9619.886
+Maharashtra,Bid,0.048,Stable,30610,0.122,2595.128
+Maharashtra,Buldana,0.09,Stable,73964,0.465,6604.062
+Maharashtra,Buldhana,0.289,Stable,384351,0.217,29319.918
+Maharashtra,Chandrapur,0.27,Stable,368855,0.152,26180.147
+Maharashtra,Chatrapati Sambhaji Nagar,0.043,Stable,8728,0.46,569.118
+Maharashtra,Chhatrapati Sambhajinagar,0.083,Stable,34209,1.208,2560.952
+Maharashtra,Dharashiv,0.067,Stable,9309,1.227,720.104
+Maharashtra,Dhule,0.2,Stable,300365,0.074,14358.292
+Maharashtra,Dist : Thane,0.023,Stable,2,0.0,
+Maharashtra,Gadchiroli,0.169,Stable,217755,0.147,14985.068
+Maharashtra,Gondia,0.035,Stable,3052,0.312,350.981
+Maharashtra,Gondiya,0.147,Stable,192151,0.135,11605.481
+Maharashtra,Gondiya *,0.032,Stable,5355,0.179,535.381
+Maharashtra,Hingoli,0.199,Stable,251980,0.179,19557.742
+Maharashtra,Hingoli *,0.022,Stable,28,-0.029,2.236
+Maharashtra,Jalgaon,0.42,Moderate Stress,669077,0.074,33794.532
+Maharashtra,Jalna,0.22,Stable,303760,0.317,17871.247
+Maharashtra,Kolhapur,0.304,Stable,445055,0.103,26946.094
+Maharashtra,Latur,0.281,Stable,420581,0.091,23336.835
+Maharashtra,Mumbai,0.374,Moderate Stress,591398,0.087,29584.926
+Maharashtra,Mumbai City,0.096,Stable,106646,0.209,6402.36
+Maharashtra,Mumbai Suburban,0.263,Stable,403253,0.16,19498.252
+Maharashtra,Mumbai( Sub Urban ),0.038,Stable,14586,0.165,1140.288
+Maharashtra,Nagpur,0.357,Moderate Stress,569826,0.049,27654.825
+Maharashtra,Nanded,0.468,Moderate Stress,654434,0.156,49594.352
+Maharashtra,Nandurbar,0.198,Stable,293407,0.145,14021.591
+Maharashtra,Nandurbar *,0.029,Stable,4607,0.091,336.069
+Maharashtra,Nashik,0.601,High Stress,946152,0.133,52413.44
+Maharashtra,Osmanabad,0.229,Stable,296639,0.183,22724.329
+Maharashtra,Palghar,0.224,Stable,315906,0.221,18331.142
+Maharashtra,Parbhani,0.255,Stable,350242,0.15,23935.534
+Maharashtra,Pune,0.726,High Stress,1172724,0.109,61480.218
+Maharashtra,Raigad,0.08,Stable,68759,0.47,4105.748
+Maharashtra,Raigarh,0.213,Stable,279438,0.227,19619.796
+Maharashtra,Raigarh(Mh),0.031,Stable,2259,0.225,188.264
+Maharashtra,Ratnagiri,0.179,Stable,223318,0.283,16085.373
+Maharashtra,Sangli,0.267,Stable,365549,0.31,24303.319
+Maharashtra,Satara,0.262,Stable,366706,0.204,23640.51
+Maharashtra,Sindhudurg,0.097,Stable,92801,0.342,7254.014
+Maharashtra,Solapur,0.481,Moderate Stress,665026,0.19,51812.878
+Maharashtra,Thane,0.709,High Stress,1138500,0.131,60307.405
+Maharashtra,Wardha,0.146,Stable,194893,0.129,10914.099
+Maharashtra,Washim,0.188,Stable,236715,0.229,17631.111
+Maharashtra,Washim *,0.033,Stable,3285,0.252,405.829
+Maharashtra,Yavatmal,0.483,Moderate Stress,631847,0.227,56596.675
+Rajasthan,Ajmer,0.212,Stable,327426,0.044,14759.602
+Rajasthan,Alwar,0.303,Stable,470185,0.084,23514.48
+Rajasthan,Balotra,0.07,Stable,1644,1.467,330.982
+Rajasthan,Banswara,0.198,Stable,255503,0.132,19199.579
+Rajasthan,Baran,0.142,Stable,184988,0.088,11600.025
+Rajasthan,Barmer,0.251,Stable,376360,0.115,19560.031
+Rajasthan,Beawar,0.134,Stable,1685,3.555,373.38
+Rajasthan,Bharatpur,0.22,Stable,328340,0.06,17003.562
+Rajasthan,Bhilwara,0.213,Stable,299382,0.135,17911.035
+Rajasthan,Bikaner,0.181,Stable,275471,0.053,12076.36
+Rajasthan,Bundi,0.108,Stable,138179,0.08,7421.341
+Rajasthan,Chittaurgarh,0.038,Stable,7898,0.332,571.727
+Rajasthan,Chittorgarh,0.128,Stable,158034,0.151,10010.835
+Rajasthan,Churu,0.183,Stable,280216,0.051,12126.869
+Rajasthan,Dausa,0.148,Stable,204113,0.078,10882.592
+Rajasthan,Deeg,0.049,Stable,3815,0.746,478.8
+Rajasthan,Dhaulpur,0.048,Stable,1697,0.779,131.413
+Rajasthan,Dholpur,0.138,Stable,183809,0.113,10321.013
+Rajasthan,Didwana-Kuchaman,0.094,Stable,2229,2.242,476.643
+Rajasthan,Dungarpur,0.177,Stable,221880,0.132,16973.733
+Rajasthan,Ganganagar,0.147,Stable,217946,0.036,9288.264
+Rajasthan,Hanumangarh,0.14,Stable,206585,0.021,8828.349
+Rajasthan,Jaipur,0.464,Moderate Stress,794350,0.034,31077.196
+Rajasthan,Jaisalmer,0.077,Stable,88572,0.096,4139.091
+Rajasthan,Jalor,0.16,Stable,215898,0.142,12627.884
+Rajasthan,Jalore,0.101,Stable,3584,2.455,523.995
+Rajasthan,Jhalawar,0.159,Stable,193261,0.264,13891.158
+Rajasthan,Jhunjhunu,0.045,Stable,10224,0.469,948.49
+Rajasthan,Jhunjhunun,0.151,Stable,217516,0.066,10306.251
+Rajasthan,Jodhpur,0.288,Stable,456026,0.056,21046.319
+Rajasthan,Karauli,0.135,Stable,178085,0.111,10177.789
+Rajasthan,Khairthal-Tijara,0.131,Stable,2818,3.413,598.359
+Rajasthan,Kota,0.16,Stable,231566,0.062,11034.737
+Rajasthan,Kotputli-Behror,0.087,Stable,1769,2.037,366.34
+Rajasthan,Nagaur,0.265,Stable,419593,0.029,19047.531
+Rajasthan,Pali,0.19,Stable,290640,0.03,13068.639
+Rajasthan,Phalodi,0.08,Stable,734,1.841,140.237
+Rajasthan,Pratapgarh,0.112,Stable,133696,0.254,7555.482
+Rajasthan,Rajsamand,0.117,Stable,146585,0.128,8353.676
+Rajasthan,Salumbar,0.06,Stable,727,1.169,135.214
+Rajasthan,Sawai Madhopur,0.127,Stable,176588,0.05,8321.91
+Rajasthan,Sikar,0.201,Stable,318332,-0.002,12901.144
+Rajasthan,Sirohi,0.114,Stable,150891,0.113,7229.185
+Rajasthan,Tonk,0.13,Stable,177494,0.074,8983.755
+Rajasthan,Udaipur,0.274,Stable,413810,0.052,22392.103
+UP,Agra,0.342,Stable,541751,0.105,25929.54
+UP,Aligarh,0.308,Stable,497106,0.113,21336.428
+UP,Allahabad,0.337,Stable,545445,0.037,24578.23
+UP,Ambedkar Nagar,0.158,Stable,215859,0.101,12356.548
+UP,Ambedkar Nagar *,0.023,Stable,1,0.0,
+UP,Amethi,0.151,Stable,211779,0.087,10886.609
+UP,Amroha,0.16,Stable,225079,0.173,11053.766
+UP,Auraiya,0.108,Stable,146197,0.019,6766.68
+UP,Auraiya *,0.023,Stable,1,0.0,
+UP,Ayodhya,0.052,Stable,41197,0.153,2057.447
+UP,Azamgarh,0.286,Stable,432661,0.076,23340.418
+UP,Baghpat,0.113,Stable,149296,0.039,7882.9
+UP,Baghpat *,0.0,Stable,5,-0.75,2.121
+UP,Bagpat,0.046,Stable,70,0.755,5.994
+UP,Bahraich,0.284,Stable,434389,0.109,22283.618
+UP,Ballia,0.209,Stable,310431,0.075,15828.525
+UP,Balrampur,0.175,Stable,239145,0.105,14369.174
+UP,Banda,0.153,Stable,216021,0.034,11246.586
+UP,Bara Banki,0.226,Stable,348897,0.05,16218.681
+UP,Barabanki,0.052,Stable,17590,0.561,1273.925
+UP,Bareilly,0.375,Moderate Stress,608862,0.034,27992.366
+UP,Basti,0.177,Stable,254140,0.067,13369.874
+UP,Bhadohi,0.042,Stable,25929,0.096,1676.832
+UP,Bijnor,0.326,Stable,524083,0.111,23524.53
+UP,Budaun,0.247,Stable,350268,0.107,21907.04
+UP,Bulandshahar,0.039,Stable,2704,0.455,191.753
+UP,Bulandshahr,0.275,Stable,438832,0.083,19137.012
+UP,Chandauli,0.172,Stable,238128,0.124,13472.159
+UP,Chandauli *,0.023,Stable,2,0.0,
+UP,Chitrakoot,0.105,Stable,128866,0.105,7191.459
+UP,Chitrakoot *,0.023,Stable,4,0.0,
+UP,Deoria,0.215,Stable,317328,0.077,16787.987
+UP,Etah,0.135,Stable,191625,0.098,8540.945
+UP,Etawah,0.128,Stable,179217,0.052,8249.84
+UP,Faizabad,0.146,Stable,211022,0.036,9966.742
+UP,Farrukhabad,0.146,Stable,194035,0.137,11006.665
+UP,Fatehpur,0.2,Stable,294028,0.086,15087.718
+UP,Firozabad,0.211,Stable,311632,0.2,14951.321
+UP,Gautam Buddha Nagar,0.206,Stable,317870,0.127,13483.747
+UP,Gautam Buddha Nagar *,0.031,Stable,5,0.25,0.577
+UP,Ghaziabad,0.317,Stable,526664,0.024,21022.374
+UP,Ghazipur,0.236,Stable,349657,0.044,19197.127
+UP,Gonda,0.234,Stable,349634,0.049,18677.579
+UP,Gorakhpur,0.283,Stable,428291,0.053,23292.81
+UP,Hamirpur,0.1,Stable,121685,0.131,6575.998
+UP,Hapur,0.113,Stable,130759,0.399,6905.249
+UP,Hardoi,0.283,Stable,440697,0.065,21558.5
+UP,Hathras,0.131,Stable,182621,0.087,8563.269
+UP,Jalaun,0.129,Stable,175043,0.048,9183.574
+UP,Jaunpur,0.281,Stable,427629,0.061,22589.751
+UP,Jhansi,0.157,Stable,224905,0.068,10967.603
+UP,Jyotiba Phule Nagar,0.033,Stable,2210,0.269,164.638
+UP,Jyotiba Phule Nagar *,0.023,Stable,1,0.0,
+UP,Kannauj,0.127,Stable,167112,0.121,9038.55
+UP,Kanpur Dehat,0.132,Stable,178442,0.095,9249.065
+UP,Kanpur Nagar,0.294,Stable,463316,0.058,21907.394
+UP,Kasganj,0.126,Stable,163840,0.149,8761.371
+UP,Kaushambi,0.144,Stable,202988,0.101,9619.627
+UP,Kheri,0.32,Stable,469086,0.123,28712.772
+UP,Kushi Nagar,0.024,Stable,1570,0.0,
+UP,Kushinagar,0.244,Stable,364284,0.11,19214.03
+UP,Kushinagar *,0.032,Stable,480,0.281,33.963
+UP,Lalitpur,0.118,Stable,157623,0.064,8024.474
+UP,Lucknow,0.336,Stable,533460,0.088,25591.658
+UP,Maharajganj,0.194,Stable,272375,0.116,15778.456
+UP,Mahoba,0.085,Stable,100997,0.081,5213.983
+UP,Mahoba *,0.023,Stable,1,0.0,
+UP,Mahrajganj,0.033,Stable,320,0.331,21.593
+UP,Mainpuri,0.139,Stable,181383,0.176,10185.429
+UP,Mathura,0.193,Stable,276445,0.166,14441.005
+UP,Mau,0.168,Stable,227157,0.108,13839.288
+UP,Meerut,0.265,Stable,422338,0.054,18545.577
+UP,Mirzapur,0.162,Stable,227807,0.133,11543.382
+UP,Moradabad,0.255,Stable,386310,0.246,18417.733
+UP,Muzaffarnagar,0.241,Stable,380682,0.031,16759.935
+UP,Pilibhit,0.211,Stable,325881,0.068,14485.933
+UP,Pratapgarh,0.201,Stable,291114,0.08,15819.011
+UP,Prayagraj,0.068,Stable,69539,0.102,3837.854
+UP,Rae Bareli,0.203,Stable,291097,0.074,16381.753
+UP,Raebareli,0.05,Stable,83,0.869,4.838
+UP,Rampur,0.219,Stable,343094,0.078,14672.985
+UP,Saharanpur,0.283,Stable,458928,0.009,19633.022
+UP,Sambhal,0.186,Stable,258254,0.083,15540.574
+UP,Sant Kabir Nagar,0.155,Stable,212258,0.063,12120.436
+UP,Sant Kabir Nagar *,0.023,Stable,2,0.0,
+UP,Sant Ravidas Nagar,0.114,Stable,145149,0.1,8136.972
+UP,Sant Ravidas Nagar Bhadohi,0.038,Stable,1231,0.456,82.003
+UP,Shahjahanpur,0.238,Stable,359929,0.155,17396.315
+UP,Shamli,0.147,Stable,212238,0.04,9823.911
+UP,Shravasti,0.047,Stable,2535,0.7,464.569
+UP,Shrawasti,0.117,Stable,147304,0.091,8688.745
+UP,Siddharth Nagar,0.31,Stable,4341,9.046,2513.765
+UP,Siddharthnagar,0.195,Stable,269236,0.133,16316.53
+UP,Sitapur,0.357,Moderate Stress,570917,0.05,27408.769
+UP,Sonbhadra,0.143,Stable,202439,0.06,9705.553
+UP,Sultanpur,0.164,Stable,228986,0.079,12551.413
+UP,Unnao,0.226,Stable,341466,0.078,16802.253
+UP,Varanasi,0.284,Stable,431027,0.108,22816.04
